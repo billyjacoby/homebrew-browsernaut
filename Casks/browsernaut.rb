@@ -1,6 +1,6 @@
 cask "browsernaut" do
 
-  version "v0.0.2"
+  version "v0.0.1"
   sha256 :nocheck
 
   url "https://github.com/billyjacoby/browsernaut/releases/download/#{version}/Browsernaut_#{version}_x64.dmg"
