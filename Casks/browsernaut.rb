@@ -1,7 +1,7 @@
 cask "browsernaut" do
 
   version "1.1.2"
-  sha256 "eef1e9faa6ee4ddda42aa206a0a43aa3ed4ca119ae614c83f97b4b63e4269b03"
+  sha256 "926f0a2597c5bdbd1df43a9638ec207eeb5326a19913625c45eeb4e384e9bfd0"
 
   url "https://github.com/billyjacoby/browsernaut/releases/download/v#{version}/Browsernaut_#{version}_universal.dmg"
   name "Browsernaut"
